@@ -1,8 +1,8 @@
-# IMRobot is a robot choreorgraphy software for instant messaging application. 
-
-Compile: Visual Studio on Windows
+# IMRobot is a robotic choreography software for instant messaging application
 
 Clone: all .rar file, uncompressed source files require 300MB disk space
+
+Compile: Visual Studion on Windows
 
 Image: Release.rar, start the engine first
 
