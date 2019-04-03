@@ -2,9 +2,9 @@
 
 Compile: Visual Studio on Windows
 
-Clone: all .rar file, 300MB uncompressed
+Clone: all .rar file, uncompressed source files require 300MB disk space
 
-Image: Release.rar
+Image: Release.rar, start the engine first
 
 <p align="center">
   <img width="512" height="389" src=".//actionImage.bmp">
