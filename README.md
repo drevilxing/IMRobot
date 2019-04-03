@@ -6,7 +6,11 @@ Clone: all .rar file, 300MB uncompressed
 
 Image: Release.rar
 
-Authors: Hunyuan Zhou, Jiefeng Hua, And Shusong Xing
+<p align="center">
+  <img width="1024" height="768" src="https://github.com/drevilxing/IMRobot/actionImage.bmp">
+</p>
+
+Authors: H. Zhou, J. Hua, S. Xing
 
 xings@nankai.edu.cn
 
